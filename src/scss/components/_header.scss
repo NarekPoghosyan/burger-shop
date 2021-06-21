@@ -1,0 +1,50 @@
+@import '../variables';
+
+.header {
+  border-bottom: 1px solid $orange;
+  background-color: rgb(15,15,15);
+  padding: 40px 0;
+  
+  .container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+
+  &__logo {
+    display: flex;
+
+    img {
+      margin-right: 15px;
+    }
+
+    h1 {
+      color: darkorange;
+      font-size: 24px;
+      letter-spacing: 1%;
+      text-transform: uppercase;
+      font-weight: 800;
+    }
+
+    p {
+      color: white;
+    }
+  }
+}
+
+@media (min-width: 1200px) and (max-width: 1500px) {
+  .header {
+    margin-right: 3.7%;
+  }
+}
+
+@media (min-width: 100px) and (max-width: 767px) {
+  .header {
+    width: 100%;
+    margin: 0;
+    .container {
+      width: 100%;
+    }
+
+  }
+}

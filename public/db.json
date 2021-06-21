@@ -1,0 +1,854 @@
+{
+    "pizzas": [
+        {
+            "id": 0,
+            "imageUrl": "https://orderapp-staticgo.burgerking.ru/x512/mobile_image/0c2c355e659184e0aa0a143ece1855a9.webp",
+            "name": "BIG KING JUNIOR",
+            "types": [
+                0,
+                1
+            ],
+            "sizes": [
+                "Small",
+                "Medium",
+                "Big"
+            ],
+            "price": 28,
+            "category": 0,
+            "rating": 4
+        },
+        {
+            "id": 1,
+            "imageUrl": "https://orderapp-staticgo.burgerking.ru/x512/mobile_image/78c1b86c3cd87825d08ce791c9e43eaa.webp",
+            "name": "WHOPPER JUNIOR",
+            "types": [
+                0,
+                1
+            ],
+            "sizes": [
+                "Small",
+                "Big"
+            ],
+            "price": 24,
+            "category": 0,
+            "rating": 6
+        },
+        {
+            "id": 2,
+            "imageUrl": "https://orderapp-staticgo.burgerking.ru/x512/mobile_image/7c7b0bbb1af1c017b55afee2b13c6888.webp",
+            "name": "LONG CHEESEBURGER",
+            "types": [
+                0
+            ],
+            "sizes": [
+                "Small",
+                "Big"
+            ],
+            "price": 29,
+            "category": 0,
+            "rating": 4
+        },
+        {
+            "id": 3,
+            "imageUrl": "https://orderapp-staticgo.burgerking.ru/x512/mobile_image/38c29a474e697bb0b9f87465d5eb96ba.webp",
+            "name": "GRILLBURGER",
+            "types": [
+                1
+            ],
+            "sizes": [
+                "Small",
+                "Medium",
+                "Big"
+            ],
+            "price": 22,
+            "category": 0,
+            "rating": 2
+        },
+        {
+            "id": 4,
+            "imageUrl": "https://orderapp-staticgo.burgerking.ru/x512/mobile_image/7baabffde14bc525758c09bfdb4c7ecc.webp",
+            "name": "DOUBLE WHOPPER CHEESE",
+            "types": [
+                0,
+                1
+            ],
+            "sizes": [
+                "Small",
+                "Medium",
+                "Big"
+            ],
+            "price": 31,
+            "category": 0,
+            "rating": 8
+        },
+        {
+            "id": 5,
+            "imageUrl": "https://orderapp-staticgo.burgerking.ru/x512/mobile_image/2400898c7d08cccbb5c407851d65e937.webp",
+            "name": "BECONAISER",
+            "types": [
+                0
+            ],
+            "sizes": [
+                "Small",
+                "Medium",
+                "Big"
+            ],
+            "price": 25,
+            "category": 0,
+            "rating": 2
+        },
+        {
+            "id": 6,
+            "imageUrl": "https://orderapp-staticgo.burgerking.ru/x512/mobile_image/cd20296f04dd73a5141aa09d8ffc9787.webp",
+            "name": "STEAKHOUSE",
+            "types": [
+                0,
+                1
+            ],
+            "sizes": [
+                "Small",
+                "Medium",
+                "Big"
+            ],
+            "price": 35,
+            "category": 0,
+            "rating": 9
+        },
+        {
+            "id": 7,
+            "imageUrl": "https://orderapp-staticgo.burgerking.ru/x512/mobile_image/18852e59d8eefeca569d4282e3307dc5.webp",
+            "name": "BIG KING XXL",
+            "types": [
+                0,
+                1
+            ],
+            "sizes": [
+                "Small",
+                "Medium",
+                "Big"
+            ],
+            "price": 29,
+            "category": 0,
+            "rating": 10
+        },
+        {
+            "id": 8,
+            "imageUrl": "https://orderapp-staticgo.burgerking.ru/x512/mobile_image/d23346b39930ad0b4df7828cb0fc8b3c.webp",
+            "name": "DOUBLE WHOPPER",
+            "types": [
+                0,
+                1
+            ],
+            "sizes": [
+                "Small",
+                "Medium",
+                "Big"
+            ],
+            "price": 23,
+            "category": 0,
+            "rating": 10
+        },
+        {
+            "id": 9,
+            "imageUrl": "https://orderapp-staticgo.burgerking.ru/x512/mobile_image/a584f1ceafc20d25c09e095164dea769.webp",
+            "name": "CHEESE JOE 🌱",
+            "types": [
+                0
+            ],
+            "sizes": [
+                "Small",
+                "Medium",
+                "Big"
+            ],
+            "price": 17,
+            "category": 0,
+            "rating": 7
+        },
+        {
+            "id": 10,
+            "imageUrl": "https://orderapp-staticgo.burgerking.ru/x512/mobile_image/74a60b2fb7536b20c10a4cdf1828b67b.webp",
+            "name": "CHICKENBURGER CLASSIC",
+            "types": [
+                0,
+                1
+            ],
+            "sizes": [
+                "Small",
+                "Medium",
+                "Big"
+            ],
+            "price": 16,
+            "category": 1,
+            "rating": 7
+        },
+        {
+            "id": 11,
+            "imageUrl": "https://orderapp-staticgo.burgerking.ru/x512/mobile_image/3970a159b7f8e9d05f89c9707666faad.webp",
+            "name": "GRILL CHICKEN BBQ",
+            "types": [
+                0,
+                1
+            ],
+            "sizes": [
+                "Small",
+                "Medium",
+                "Big"
+            ],
+            "price": 20,
+            "category": 1,
+            "rating": 7
+        },
+        {
+            "id": 12,
+            "imageUrl": "https://orderapp-staticgo.burgerking.ru/x512/mobile_image/32c43a0b81246d3469b9c9e12e06db80.webp",
+            "name": "WHOPPER",
+            "types": [
+                0,
+                1
+            ],
+            "sizes": [
+                "Small",
+                "Medium",
+                "Big"
+            ],
+            "price": 18,
+            "category": 0,
+            "rating": 7
+        },
+        {
+            "id": 13,
+            "imageUrl": "https://orderapp-staticgo.burgerking.ru/x512/mobile_image/bce1fb745d10f57c3cae377b6c21c81f.webp",
+            "name": "CHEESE MARY",
+            "types": [
+                0,
+                1
+            ],
+            "sizes": [
+                "Small",
+                "Medium",
+                "Big"
+            ],
+            "price": 17,
+            "category": 1,
+            "rating": 7
+        },
+        {
+            "id": 14,
+            "imageUrl": "https://orderapp-staticgo.burgerking.ru/x512/mobile_image/64984a5da08b1df2d59f0e1a1c23ea55.webp",
+            "name": "LONG CHICKEN",
+            "types": [
+                0
+            ],
+            "sizes": [
+                "Small",
+                "Medium",
+                "Big"
+            ],
+            "price": 24,
+            "category": 1,
+            "rating": 7
+        },
+        {
+            "id": 15,
+            "imageUrl": "https://orderapp-staticgo.burgerking.ru/x512/mobile_image/2113b60dbb545d393bc86ced8808b974.webp",
+            "name": "CAESAR KING",
+            "types": [
+                0
+            ],
+            "sizes": [
+                "Small",
+                "Medium",
+                "Big"
+            ],
+            "price": 19,
+            "category": 1,
+            "rating": 7
+        },
+        {
+            "id": 16,
+            "imageUrl": "https://orderapp-staticgo.burgerking.ru/x512/mobile_image/cfec1fc9e3642f670d6e9a035eb9a95d.webp",
+            "name": "BIG KING",
+            "types": [
+                0,
+                1
+            ],
+            "sizes": [
+                "Small",
+                "Medium",
+                "Big"
+            ],
+            "price": 27,
+            "category": 0,
+            "rating": 7
+        },
+        {
+            "id": 17,
+            "imageUrl": "https://orderapp-staticgo.burgerking.ru/x512/mobile_image/8a4a715dfda393db60817704e245c79b.webp",
+            "name": "HAMBURGER",
+            "types": [
+                1
+            ],
+            "sizes": [
+                "Small",
+                "Medium",
+                "Big"
+            ],
+            "price": 10,
+            "category": 0,
+            "rating": 7
+        },
+        {
+            "id": 18,
+            "imageUrl": "https://orderapp-staticgo.burgerking.ru/x512/mobile_image/b4997a235f23f53691598198763e560a.webp",
+            "name": "DOUBLE CHEESEBURGER",
+            "types": [
+                0,
+                1
+            ],
+            "sizes": [
+                "Small",
+                "Medium",
+                "Big"
+            ],
+            "price": 22,
+            "category": 0,
+            "rating": 7
+        },
+        {
+            "id": 19,
+            "imageUrl": "https://orderapp-staticgo.burgerking.ru/x512/mobile_image/b1c887da18b0f32e52c47c71040a71af.webp",
+            "name": "CHEESEBURGER",
+            "types": [
+                0
+            ],
+            "sizes": [
+                "Small",
+                "Medium",
+                "Big"
+            ],
+            "price": 12,
+            "category": 0,
+            "rating": 7
+        },
+        {
+            "id": 20,
+            "imageUrl": "https://orderapp-staticgo.burgerking.ru/x512/mobile_image/7a2adb0496a8f53b00624bad51c47b07.webp",
+            "name": "ROLL WITH STRIPES",
+            "types": [
+                0,
+                1
+            ],
+            "sizes": [
+                "Small",
+                "Medium"
+            ],
+            "price": 9,
+            "category": 1,
+            "rating": 7
+        },
+        {
+            "id": 21,
+            "imageUrl": "https://orderapp-staticgo.burgerking.ru/x512/mobile_image/39a48f92a966d59def156f6fa0fefa2d.webp",
+            "name": "ROLL KINGER GRILL",
+            "types": [
+                0
+            ],
+            "sizes": [
+                "Small",
+                "Medium",
+                "Big"
+            ],
+            "price": 9,
+            "category": 0,
+            "rating": 7
+        },
+        {
+            "id": 22,
+            "imageUrl": "https://orderapp-staticgo.burgerking.ru/x512/mobile_image/3c54721183555f8bcd27e58199e0b7fd.webp",
+            "name": "KING NAGGETS",
+            "types": [
+                0,
+                1
+            ],
+            "sizes": [
+                "Small",
+                "Medium",
+                "Big"
+            ],
+            "price": 14,
+            "category": 1,
+            "rating": 7
+        },
+        {
+            "id": 23,
+            "imageUrl": "https://orderapp-staticgo.burgerking.ru/x512/mobile_image/c397f3cf3d766ee3e448719627719e2e.webp",
+            "name": "CHICKEN WINGS KING",
+            "types": [
+                0,
+                1
+            ],
+            "sizes": [
+                "Small",
+                "Medium",
+                "Big"
+            ],
+            "price": 13,
+            "category": 1,
+            "rating": 7
+        },
+        {
+            "id": 24,
+            "imageUrl": "https://orderapp-staticgo.burgerking.ru/x512/mobile_image/db07d4884cfd143a0237ef03bd4df0ee.webp",
+            "name": "VILLAGE POTATO",
+            "types": [
+                0,
+                1
+            ],
+            "sizes": [
+                "Small",
+                "Medium",
+                "Big"
+            ],
+            "price": 8,
+            "category": 2,
+            "rating": 7
+        },
+        {
+            "id": 25,
+            "imageUrl": "https://blackstarburger.ru/wp-content/uploads/2020/04/kartofel-fri.png",
+            "name": "FRENCH FRIES",
+            "types": [
+                0,
+                1
+            ],
+            "sizes": [
+                "Small",
+                "Medium",
+                "Big"
+            ],
+            "price": 7,
+            "category": 2,
+            "rating": 7
+        },
+        {
+            "id": 26,
+            "imageUrl": "https://orderapp-staticgo.burgerking.ru/x512/mobile_image/419fdeab32642d5941f9d34b7b7b79f2.webp",
+            "name": "ONION RINGS",
+            "types": [
+                0,
+                1
+            ],
+            "sizes": [
+                "Small",
+                "Medium",
+                "Big"
+            ],
+            "price": 5,
+            "category": 2,
+            "rating": 7
+        },
+        {
+            "id": 27,
+            "imageUrl": "https://orderapp-staticgo.burgerking.ru/x512/mobile_image/8cdc7f94fca353533fa2749513375599.webp",
+            "name": "CHEESE MEDALLIONS",
+            "types": [
+                0
+            ],
+            "sizes": [
+                "Small",
+                "Medium",
+                "Big"
+            ],
+            "price": 7,
+            "category": 2,
+            "rating": 7
+        },
+        {
+            "id": 28,
+            "imageUrl": "https://orderapp-staticgo.burgerking.ru/x512/mobile_image/a2b7b17a0d0806900b86dcb23b950e1f.webp",
+            "name": "PEPSI CLASSIC",
+            "types": [],
+            "sizes": [
+                "Small",
+                "Medium",
+                "Big"
+            ],
+            "price": 3,
+            "category": 3,
+            "rating": 7
+        },
+        {
+            "id": 29,
+            "imageUrl": "https://orderapp-staticgo.burgerking.ru/x512/mobile_image/4aa296fd6628220154e8826405687f6f.webp",
+            "name": "SEVEN UP",
+            "types": [],
+            "sizes": [
+                "Small",
+                "Medium",
+                "Big"
+            ],
+            "price": 3,
+            "category": 3,
+            "rating": 7
+        },
+        {
+            "id": 30,
+            "imageUrl": "https://orderapp-staticgo.burgerking.ru/x512/mobile_image/4b8dd48400497a232394e467273ac7be.webp",
+            "name": "LIPTON GREEN",
+            "types": [],
+            "sizes": [
+                "Small",
+                "Medium",
+                "Big"
+            ],
+            "price": 2.5,
+            "category": 3,
+            "rating": 7
+        },
+        {
+            "id": 31,
+            "imageUrl": "https://orderapp-staticgo.burgerking.ru/x512/mobile_image/ac8cfcb6e3f4d77591afa20673fb0253.webp",
+            "name": "MIRINDA",
+            "types": [],
+            "sizes": [
+                "Small",
+                "Medium",
+                "Big"
+            ],
+            "price": 3,
+            "category": 3,
+            "rating": 7
+        },
+        {
+            "id": 32,
+            "imageUrl": "https://orderapp-staticgo.burgerking.ru/x512/mobile_image/c7d85ae2ae3290cacde49baabe9c9a4c.webp",
+            "name": "LIPTON LEMON",
+            "types": [],
+            "sizes": [
+                "Small",
+                "Medium",
+                "Big"
+            ],
+            "price": 2.5,
+            "category": 3,
+            "rating": 7
+        },
+        {
+            "id": 33,
+            "imageUrl": "https://orderapp-staticgo.burgerking.ru/x512/mobile_image/4645284fa8c8d8cf46447eac29e5865f.webp",
+            "name": "PEPSI CHERRY",
+            "types": [],
+            "sizes": [
+                "Small",
+                "Medium",
+                "Big"
+            ],
+            "price": 3,
+            "category": 3,
+            "rating": 7
+        },
+        {
+            "id": 34,
+            "imageUrl": "https://orderapp-staticgo.burgerking.ru/x512/mobile_image/852f8482a6af6c8d9aa67ae91d9b20ab.webp",
+            "name": "PEPSI ZERO",
+            "types": [],
+            "sizes": [
+                "Small",
+                "Medium",
+                "Big"
+            ],
+            "price": 3,
+            "category": 3,
+            "rating": 7
+        },
+        {
+            "id": 35,
+            "imageUrl": "https://orderapp-staticgo.burgerking.ru/x512/mobile_image/c094921f1a2fa640fb6e0482664c8c0e.webp",
+            "name": "PEPSI BOTTLE",
+            "types": [],
+            "sizes": [
+                "Small",
+                "Medium",
+                "Big"
+            ],
+            "price": 2.5,
+            "category": 3,
+            "rating": 7
+        },
+        {
+            "id": 36,
+            "imageUrl": "https://orderapp-staticgo.burgerking.ru/x512/mobile_image/66a98093f51a7f001bd51de9d5835e07.webp",
+            "name": "PEPSI CHERRY BOTTLE",
+            "types": [],
+            "sizes": [
+                "Small",
+                "Medium",
+                "Big"
+            ],
+            "price": 2.5,
+            "category": 3,
+            "rating": 7
+        },
+        {
+            "id": 37,
+            "imageUrl": "https://orderapp-staticgo.burgerking.ru/x512/mobile_image/4a0468ce87a79431b51b438284df5025.webp",
+            "name": "PEPSI ZERO BOTTLE",
+            "types": [],
+            "sizes": [
+                "Small",
+                "Medium",
+                "Big"
+            ],
+            "price": 2.5,
+            "category": 3,
+            "rating": 7
+        },
+        {
+            "id": 38,
+            "imageUrl": "https://orderapp-staticgo.burgerking.ru/x512/mobile_image/e117692e332914a1aa60f9034b15b5f2.webp",
+            "name": "MIRINDA BOTTLE",
+            "types": [],
+            "sizes": [
+                "Small",
+                "Medium",
+                "Big"
+            ],
+            "price": 2.5,
+            "category": 3,
+            "rating": 7
+        },
+        {
+            "id": 39,
+            "imageUrl": "https://orderapp-staticgo.burgerking.ru/x512/mobile_image/1ef45bcb3e102ac81c174f155bb6826f.webp",
+            "name": "SEVEN UP BOTTLE",
+            "types": [
+                1
+            ],
+            "sizes": [
+                "Small",
+                "Medium",
+                "Big"
+            ],
+            "price": 2.5,
+            "category": 3,
+            "rating": 7
+        },
+        {
+            "id": 40,
+            "imageUrl": "https://orderapp-staticgo.burgerking.ru/x512/mobile_image/f6a743d840478dc44421797213fa6371.webp",
+            "name": "LIPTON BOTTLE",
+            "types": [
+                0,
+                1
+            ],
+            "sizes": [
+                "Small",
+                "Medium",
+                "Big"
+            ],
+            "price": 2,
+            "category": 3,
+            "rating": 7
+        },
+        {
+            "id": 41,
+            "imageUrl": "https://orderapp-staticgo.burgerking.ru/x512/mobile_image/4076b950d2108e33620dc69c3cc9c336.webp",
+            "name": "LIPTON GREEN TEA",
+            "types": [
+                0,
+                1
+            ],
+            "sizes": [
+                "Small",
+                "Medium",
+                "Big"
+            ],
+            "price": 2,
+            "category": 3,
+            "rating": 7
+        },
+        {
+            "id": 42,
+            "imageUrl": "https://orderapp-staticgo.burgerking.ru/x512/mobile_image/f0ecff0de5b7724839d2e10362299707.webp",
+            "name": "AQUA WITHOUT GAS",
+            "types": [
+                0,
+                1
+            ],
+            "sizes": [
+                "Small",
+                "Medium",
+                "Big"
+            ],
+            "price": 1,
+            "category": 3,
+            "rating": 7
+        },
+        {
+            "id": 43,
+            "imageUrl": "https://orderapp-staticgo.burgerking.ru/x512/mobile_image/006902db0ab6897d4f0f3870bd4c2e2a.webp",
+            "name": "AQUA WITH GAS",
+            "types": [
+                0,
+                1
+            ],
+            "sizes": [
+                "Small",
+                "Medium",
+                "Big"
+            ],
+            "price": 1,
+            "category": 3,
+            "rating": 7
+        },
+        {
+            "id": 44,
+            "imageUrl": "https://orderapp-staticgo.burgerking.ru/x512/mobile_image/077906efbb67171be2799e1e5160a615.webp",
+            "name": "ADRENALIN RUSH",
+            "types": [
+                0,
+                1
+            ],
+            "sizes": [
+                "Small",
+                "Medium",
+                "Big"
+            ],
+            "price": 1.5,
+            "category": 3,
+            "rating": 7
+        },
+        {
+            "id": 45,
+            "imageUrl": "https://orderapp-staticgo.burgerking.ru/x512/mobile_image/e653878c088199c66281fdec8f31fd5d.webp",
+            "name": "CHEESE",
+            "types": [
+                0
+            ],
+            "sizes": [
+                "Small",
+                "Medium",
+                "Big"
+            ],
+            "price": 1,
+            "category": 4,
+            "rating": 7
+        },
+        {
+            "id": 46,
+            "imageUrl": "https://orderapp-staticgo.burgerking.ru/x512/mobile_image/9d43eabf512a196b89b4709bef93ec51.webp",
+            "name": "KETCHUP",
+            "types": [
+                0,
+                1
+            ],
+            "sizes": [
+                "Small",
+                "Medium",
+                "Big"
+            ],
+            "price": 1,
+            "category": 4,
+            "rating": 7
+        },
+        {
+            "id": 47,
+            "imageUrl": "https://orderapp-staticgo.burgerking.ru/x512/mobile_image/bbeaa75d3e88c473e4ae5a4a04bb46c2.webp",
+            "name": "SWEET-SOUR",
+            "types": [
+                0
+            ],
+            "sizes": [
+                "Small",
+                "Medium",
+                "Big"
+            ],
+            "price": 1,
+            "category": 4,
+            "rating": 7
+        },
+        {
+            "id": 48,
+            "imageUrl": "https://orderapp-staticgo.burgerking.ru/x512/mobile_image/a747f5887a380f01c9a94e1845b381de.webp",
+            "name": "COWBERRY",
+            "types": [
+                0
+            ],
+            "sizes": [
+                "Small",
+                "Medium",
+                "Big"
+            ],
+            "price": 1,
+            "category": 4,
+            "rating": 7
+        },
+        {
+            "id": 49,
+            "imageUrl": "https://orderapp-staticgo.burgerking.ru/x512/mobile_image/f717c50eab8cde712ed01e3dec780faf.webp",
+            "name": "BBQ",
+            "types": [
+                0,
+                1
+            ],
+            "sizes": [
+                "Small",
+                "Medium",
+                "Big"
+            ],
+            "price": 1,
+            "category": 4,
+            "rating": 7
+        },
+        {
+            "id": 50,
+            "imageUrl": "https://orderapp-staticgo.burgerking.ru/x512/mobile_image/999babde7984e5c006d5e74982483aa2.webp",
+            "name": "PARMEGIANO",
+            "types": [
+                0,
+                1
+            ],
+            "sizes": [
+                "Small",
+                "Medium",
+                "Big"
+            ],
+            "price": 1,
+            "category": 4,
+            "rating": 7
+        },
+        {
+            "id": 51,
+            "imageUrl": "https://orderapp-staticgo.burgerking.ru/x512/mobile_image/7716dde7879518a65cbd4caa6e01c79d.webp",
+            "name": "MUSTARD",
+            "types": [
+                1
+            ],
+            "sizes": [
+                "Small",
+                "Medium",
+                "Big"
+            ],
+            "price": 1,
+            "category": 4,
+            "rating": 7
+        },
+        {
+            "id": 52,
+            "imageUrl": "https://orderapp-staticgo.burgerking.ru/x512/mobile_image/127c1f41e7e55d2f8eafae9ad2fedfa9.webp",
+            "name": "CURRY",
+            "types": [
+                0,
+                1
+            ],
+            "sizes": [
+                "Small",
+                "Medium",
+                "Big"
+            ],
+            "price": 1,
+            "category": 4,
+            "rating": 7
+        }
+    ]
+}
